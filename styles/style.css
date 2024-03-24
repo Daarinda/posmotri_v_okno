@@ -66,7 +66,7 @@ ol {
   position: relative;
   width: 711px;
   height: 386px;
-  margin-top: 81px;
+  margin-top: 78px;
 }
 
 .result__video {
@@ -211,7 +211,6 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  width: 399px;
 }
 
 .title {
@@ -221,6 +220,7 @@ ol {
   line-height: 70.5px;
   color: #fff;
   text-transform: uppercase;
+  width: 399px;
 }
 
 .content__accent {
